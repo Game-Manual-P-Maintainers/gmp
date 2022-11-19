@@ -4,5 +4,5 @@ description: >-
   start you off.
 ---
 
-# Guide: Android Studio
+# Android Studio
 

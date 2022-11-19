@@ -2,7 +2,7 @@
 description: Where should you develop code?
 ---
 
-# Programming Environment
+# Programming Environments
 
 ## IntelliJ IDEA/Android Studio
 

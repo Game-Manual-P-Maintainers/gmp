@@ -4,5 +4,4 @@ description: The basics required to follow this guide.
 
 # Starting Out
 
-* [Programming Environment](programming-environment.md)
-* [Guide: Android Studio](guide-android-studio.md)
+* We need to add a part about like "ftc is confusing and such" basically appeal to rookies
