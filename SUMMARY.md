@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Game Manual P!](README.md)
+* [Game Manual P](README.md)
 
 ## The Basics
 
