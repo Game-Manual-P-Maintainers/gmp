@@ -40,8 +40,6 @@ OnBot Java allows you to write your robot code in the Java language. It, like bl
 * Does not allow for the use of external libraries. (Technically, it is possible, but only barely)
 * Harder to learn for those without experience.
 
-##
-
 ## IntelliJ IDEA/Android Studio
 
 The IntelliJ IDEA and Android Studio integrated development environments (IDE) are amazing tools for developing code for your robot in Java. These 2 IDEs allow for high customization and are great for managing workflow with their built-in GIT tools. They both come preinstalled with everything you'll need to develop your code and are somewhat trivial to set up.&#x20;
