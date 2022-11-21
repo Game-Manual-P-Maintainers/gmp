@@ -4,7 +4,7 @@ description: Where should you develop code?
 
 # Programming Environments
 
-To start programming, we need some sort of way to write our code and put it onto the robot. There are 3 different ways to do this: FTC Blocks, OnBot Java, and IntelliJ IDEA/Android Studio.
+To start programming, we need some sort of way to write our code and put it onto the robot. There are 3 different programming environments that we can use to do this: FTC Blocks, OnBot Java, and IntelliJ IDEA/Android Studio.
 
 Each of these options does things very differently from the other and choosing which one is best for you can be difficult. Here is a quick explanation of each environment, as well as the pros and cons of each.
 
