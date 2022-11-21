@@ -12,6 +12,8 @@ Each of these options does things very differently from the other and choosing w
 
 FTC Blocks is a software that allows users to build code using "blocks" similar to Scratch or Blockly. Blocks are simple and easy to understand and can be picked up and used by almost anyone pretty easily. The FTC Blocks program contains all the needed tools to perform tasks with your robot and is a great way to learn about the FTC control systems. To code with FTC Blocks, connect to your robot controller, and then select the "blocks" coding option. This process will be explained in more detail in the blocks section.
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>An example program using the Blocks programming tool. The code makes a robot drive in tank mode.</p></figcaption></figure>
+
 ### Pros
 
 * _FIRST_ officially recommends that new programmers start with blocks.
@@ -26,7 +28,9 @@ FTC Blocks is a software that allows users to build code using "blocks" similar 
 
 ## OnBot Java
 
-OnBot Java allows you to write your robot code in the Java language. It, like blocks, is run in a browser while connected to the robot controller's Wi-Fi.&#x20;
+OnBot Java allows you to write your robot code in the Java language. It, like blocks, is run in a browser while connected to the robot controller's Wi-Fi.
+
+<figure><img src="https://i.ytimg.com/vi/T3tmBQ8kesc/maxresdefault.jpg" alt=""><figcaption><p>An example program using OnBotJava. The code just prints some data to the screen.</p></figcaption></figure>
 
 ### Pros
 
@@ -47,6 +51,8 @@ The IntelliJ IDEA and Android Studio integrated development environments (IDE) a
 {% hint style="info" %}
 IntelliJ IDEA is an IDE created by the JetBrains company. The "Ultimate" edition is paid, while the "Community" edition is free. The "Community" edition lacks some of the features present in the "Ultimate" version. Android Studio is basically just a version of the "Community" edition with a few extra plugins and features preinstalled.
 {% endhint %}
+
+<figure><img src="https://i.ytimg.com/vi/gjiLNWnPPN0/maxresdefault.jpg" alt=""><figcaption><p>An example program using Android Studio. This is a piece of computer vision code from Power Play.</p></figcaption></figure>
 
 ### Pros
 
