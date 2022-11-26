@@ -18,7 +18,7 @@ FTC Blocks is a software that allows users to build code using "blocks" similar 
 
 * _FIRST_ officially recommends that new programmers start with blocks.
 * Easy to read and debug code.
-* Basically plug-and-play - just requires a device and a connection to the robot controller's Wi-Fi.
+* Basically plug-and-play - just requires a device (preferably a laptop) and a connection to the robot controller's Wi-Fi.
 
 ### Cons
 
