@@ -1,6 +1,5 @@
 ---
-description: >-
-  A quick intro to the comprehensive FTC programming guide! Presented by FTC teams
+  Here's quick intro to the comprehensive FTC programming guide! Presented by FTC teams
   #12857, #12331, and #8872.
 ---
 
