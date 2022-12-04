@@ -1,6 +1,6 @@
 ---
 description: >-
-  A quick intro to the comprehensive FTC programming guide! Presented by teams
+  A quick intro to the comprehensive FTC programming guide! Presented by FTC teams
   #12857, #12331, and #8872.
 ---
 
@@ -12,5 +12,7 @@ Welcome to Game Manual P, the comprehensive FTC programming guide! Whether you a
 
 ## What does this guide contain?
 
-This guide contains basically everything you need to get started and advance quickly through FTC programming! Starting out with [Broken link](broken-reference "mention"), someone who is better at this please carry.
+This guide contains basically everything you need to get started and advance quickly through FTC programming!
 
+##Contributions
+Simply open an issue, make a PR, or DM one of our staff to make a contribution!
