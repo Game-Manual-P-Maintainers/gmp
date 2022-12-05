@@ -13,5 +13,5 @@ Welcome to Game Manual P, the comprehensive FTC programming guide! Whether you a
 
 This guide contains basically everything you need to get started and advance quickly through FTC programming!
 
-##Contributions
+## Contributions
 Simply open an issue, make a PR, or DM one of our staff to make a contribution!
